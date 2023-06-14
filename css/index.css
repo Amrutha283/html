@@ -1,0 +1,30 @@
+
+html{
+     background-image:url('wbg.jpeg');
+     background-repeat:no-repeat;
+     background-size:cover;
+     background-attachment:fixed;
+     }
+ul{
+   color:white;
+   }   
+     
+     
+ p{
+    color:yellow;
+    font-size:20px;
+    font-family:"courier";
+    }
+
+h1{
+    font-family:'verdana';
+    color:'white';
+    font-size: 50px;
+    text-align:'center';
+    }
+ h3{
+    font-family:'verdana';
+    color:'white';
+    font-size: 30px;
+    }
+       
